@@ -15,6 +15,7 @@ import com.training.repository.StudentRepository;
 @Controller
 public class StudentController {
 
+	
 	@Autowired
 	private StudentRepository studrepo;
 
